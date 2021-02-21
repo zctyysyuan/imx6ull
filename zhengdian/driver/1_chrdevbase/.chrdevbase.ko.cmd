@@ -1,0 +1,1 @@
+cmd_/home/arsene/vs_ws/zhengdian/driver/1_chrdevbase/chrdevbase.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/arsene/vs_ws/zhengdian/driver/1_chrdevbase/chrdevbase.ko /home/arsene/vs_ws/zhengdian/driver/1_chrdevbase/chrdevbase.o /home/arsene/vs_ws/zhengdian/driver/1_chrdevbase/chrdevbase.mod.o
